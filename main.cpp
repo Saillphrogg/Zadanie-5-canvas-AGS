@@ -46,7 +46,7 @@ int main(int argc, char** argv)
 {
     if(argc<2) 
     {
-        std::cerr<<"Usage: "<<argv[0]<<" <config file>"<<std::endl;
+        std::cerr<<"Poprawne uzycie: "<<argv[0]<<" <config file>"<<std::endl;
         return 1;
     }
 
